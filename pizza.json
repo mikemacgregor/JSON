@@ -1,0 +1,38 @@
+{
+  "pizzaTypes" : [
+    {
+      "name" : "Classic Pepperoni",
+      "price" : 10.95,
+      "size" : "large",
+      "toppings" : [
+        "cheese",
+        "pepperoni"
+      ],
+      "image" : "pizza-2.jpg"
+    },
+    {
+      "name" : "Veggie Delight",
+      "price" : 14.95,
+      "size" : "medium",
+      "toppings" : [
+        "cheese",
+        "tomato",
+        "black olives",
+        "spinach"
+      ],
+      "image" : "pizza-1.jpg"
+    },
+    {
+      "name" : "Deluxe",
+      "price" : 17.95,
+      "size" : "large",
+      "toppings" : [
+        "cheese",
+        "sausage",
+        "bacon",
+        "green olives"
+      ],
+      "image" : "pizza-3.jpg"
+    }
+  ]
+}
