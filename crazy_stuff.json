@@ -3,7 +3,7 @@
     {
       "name" : "Baby Hands Candles",
       "price" : 15.00,
-      "details" : "be prepared the next time you lose power, or stick them in your next jack-o-lantern",
+      "details" : "be prepared when you lose power, or stick one in a jack-o-lantern",
       "image" : "baby_hands_candles.jpg"
     },
     {
@@ -14,14 +14,14 @@
     },
     {
       "name" : "Tennis Ball with Head Strap",
-      "price" : 5.28,
+      "price" : 5.25,
       "details" : "better reminder than an elastic around your wrist",
       "image" : "boxing-reflex-ball.jpg"
     },
     {
       "name" : "Desktop Refrigerator",
       "price" : 38.00,
-      "details" : "holds on can of soda or 6 Girl Guide cookies, not both",
+      "details" : "holds one can of soda or 6 Girl Guide cookies, not both",
       "image" : "desk_fridge.jpg"
     },
     {
