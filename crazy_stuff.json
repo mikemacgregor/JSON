@@ -1,0 +1,34 @@
+{
+  "areYouKiddingMe" : [
+    {
+      "name" : "Baby Hands Candles",
+      "price" : 15.00,
+      "details" : "be prepared the next time you lose power, or stick them in your next jack-o-lantern",
+      "image" : "baby_hands_candles.jpg"
+    },
+    {
+      "name" : "Nothing",
+      "price" : 6.95,
+      "details" : "literally, nothing. nil, nada, zip, zilch",
+      "image" : "nothing.jpg"
+    },
+    {
+      "name" : "Tennis Ball with Head Strap",
+      "price" : 5.28,
+      "details" : "better reminder than an elastic around your wrist",
+      "image" : "boxing-reflex-ball.jpg"
+    },
+    {
+      "name" : "Desktop Refrigerator",
+      "price" : 38.00,
+      "details" : "holds on can of soda or 6 Girl Guide cookies, not both",
+      "image" : "desktop_fridge.jpg"
+    },
+    {
+      "name" : "Dog Dryer",
+      "price" : 39.95,
+      "details" : "I have no words",
+      "image" : "dog-dryer.jpg"
+    }
+  ]
+}
