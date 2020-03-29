@@ -1,0 +1,58 @@
+{
+  "areYouKiddingMe" : [
+    {
+      "name" : "Baby Hands Candles",
+      "price" : 15.00,
+      "details" : "be prepared when you lose power, or stick one in a jack-o-lantern",
+      "image" : "baby_hands_candles.jpg"
+    },
+    {
+      "name" : "Nothing",
+      "price" : 6.95,
+      "details" : "literally, nothing. nil, nada, zip, zilch",
+      "image" : "nothing.jpg"
+    },
+    {
+      "name" : "Tennis Ball with Head Strap",
+      "price" : 5.25,
+      "details" : "better reminder than an elastic around your wrist",
+      "image" : "boxing-reflex-ball.jpg"
+    },
+    {
+      "name" : "Desktop Refrigerator",
+      "price" : 38.00,
+      "details" : "holds one can of soda or 6 Girl Guide cookies, not both",
+      "image" : "desk_fridge.jpg"
+    },
+    {
+      "name" : "Dog Dryer",
+      "price" : 39.95,
+      "details" : "I have no words",
+      "image" : "dog-dryer.jpg"
+    },
+    {
+      "name" : "1,500 Live Ladybugs",
+      "price" : 3.05,
+      "details" : "ladybugs are cute... until they are inside your home and they brought 1,499 of their closest friends",
+      "image" : "live-ladybugs.jpg"
+    },
+    {
+      "name" : "Cat Butt Tissue Holder",
+      "price" : 34.94,
+      "details" : "for the cat person in your life who has everything",
+      "image" : "cat-butt-tissue-holder.jpg"
+    },
+    {
+      "name" : "Wall Decal - Seniors in Golf Cart",
+      "price" : 21.96,
+      "details" : "need help trying to prove you know nothing about home decorating?",
+      "image" : "seniors-wall-decal.jpg"
+    },
+    {
+      "name" : "PB&J of the Month Club",
+      "price" : 468.96,
+      "details" : "this actually does look good right about now, and yes, you can pay monthly",
+      "image" : "peanut-butter-and-jelly-club.jpg"
+    }
+  ]
+}
